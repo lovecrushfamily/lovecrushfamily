@@ -1,6 +1,6 @@
 ### WELCOME TO MY HOME
 My name is Phuc Vu. I am a fresher at UTEHY with main major is Computer Science. I am interested in some topics: Computer Vision.<br>
-<!-- ## 📫 How to reach me:  -->
+## 📫 Here's some project and info about my repo
 
 
 
