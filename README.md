@@ -7,7 +7,7 @@ I'm majoring in Computer Science..<br>
 
 ![Phuc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vuquangphucliar&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/vuquangphucliar/Dormitory-console-application/">
+<a href="https://github.com/vuquangphucliar/Dormitory-console-application-for-management/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuquangphucliar&repo=Dormitory-console-application-for-management&theme=omni" />
 </a>    
