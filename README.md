@@ -1,4 +1,4 @@
-### WELCOME TO MY HOME
+### WELCOME TO MY Repo
 My name is Phuc Vu. I am a freshman at UTEHY now, 
 I'm majoring in Computer Science..<br>
 ## 📫 Here's some project and info about my repo
