@@ -11,9 +11,9 @@ I'm majoring in Computer Science..<br>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuquangphucliar&repo=Dormitory-console-application-for-management&theme=omni" />
 </a>    
-<a href="https://github.com/vuquangphucliar/lovE_Commerce_Exchange)">
+<a href="https://github.com/vuquangphucliar/lovE_Commerce_Exchange/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuquangphucliar&repo=Dormitory-console-application-for-management&theme=omni" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuquangphucliar&repo=lovE_Commerce_Exchange&theme=omni" />
 </a>    
 
 
