@@ -17,7 +17,7 @@ I'm majoring in Computer Science..<br>
 </a>    
 <a href="https://github.com/vuquangphucliar/LovE-Commerce-v0.0.2/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuquangphucliar&repo=lovE_Commerce_Exchange&theme=omni" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuquangphucliar&repo=LovE-Commerce-v0.0.2&theme=omni" />
 </a>  
 
 
