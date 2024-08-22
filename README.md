@@ -10,7 +10,7 @@ Some of my repos, Just enjoy it!
 
 <a href="https://github.com/lovecrushfamily/fashion_MINIST/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lovecrushfamily&repo=fashion_MNIST&theme=catppuccin_latte" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lovecrushfamily&repo=fashion_MINIST&theme=catppuccin_latte" />
 </a>   
 
 <a href="https://github.com/lovecrushfamily/fashion_MINIST/">
