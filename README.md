@@ -5,7 +5,7 @@ Some of my repos, Just enjoy it!
 ## 
 
 
-![Love's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lovecrushfamily&show_icons=true&theme=ambient_gradient&hide=contribs,prs,issues)
+![Love's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lovecrushfamily&show_icons=true&theme=transparent&hide=contribs,prs,issues)
 
 
 <a href="https://github.com/lovecrushfamily/fashion_MINIST/">
@@ -13,13 +13,11 @@ Some of my repos, Just enjoy it!
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lovecrushfamily&repo=fashion_MNIST&theme=catppuccin_latte" />
 </a>   
 
-
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
-<a href="https://github.com/uvipen/QuickDraw/">
+<a href="https://github.com/lovecrushfamily/fashion_MINIST/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
 </a>    
+
 <a href="https://github.com/uvipen/ASCII-generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
