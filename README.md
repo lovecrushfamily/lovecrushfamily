@@ -7,12 +7,6 @@ Some of my repos, Just enjoy it!
 
 ![Love's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lovecrushfamily&show_icons=true&theme=transparent&hide=contribs,prs,issues)
 
-
-<a href="https://github.com/lovecrushfamily/fashion_MINIST/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lovecrushfamily&repo=fashion_MINIST&theme=catppuccin_latte" />
-</a>   
-
 <a href="https://github.com/lovecrushfamily/Olist_store_analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lovecrushfamily&repo=Olist_store_analysis&theme=shadow_red" />
