@@ -55,7 +55,7 @@ const phuc = {
 };
 ```
 
-</td>
+<!-- </td>
 </tr>
 </table>
 
@@ -252,4 +252,4 @@ const phuc = {
      // END TRANSMISSION
      // NEURAL_LINK disconnected. 
      // Remember: The code is always watching. 👁️
-     ═══════════════════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════════════ --> -->
